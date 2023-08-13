@@ -10,21 +10,27 @@
 <!--Banner session-->
 <p>
 <h1 align="center">
-Programa Start By Capgemini
+
+Programa Start By [Capgemini](https://github.com/Capgemini)
+
 </p>
 
   
-> :construction: Projeto em construção | Project under construction :construction:
-> :construction: | Falhas nos Códigos | :construction: 
+> :construction: Repositorio em atualização ! | Update repository! :construction:
+
+---
+
 
 [PT/PT]
-Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
+Repositorio criado com o intuito de mostrar minha habilidade e crescimento ao decorrer da minha carreira.
 
 [EN/EN]
-Portfolio created in order to show my projects throughout my career
+Repository created with the intention of showing my ability and growth throughout my career.
 
 
-### Studying and looking for new challenges in the [Start By Capgemini Program](http://capgeminischool.brazilsouth.cloudapp.azure.com/) / Estudando e buscando novos desafios no [Programa Start By Capgemini](http://capgeminischool.brazilsouth.cloudapp.azure.com/).
+### Estudando e buscando novos desafios no [Programa Start By Capgemini](http://capgeminischool.brazilsouth.cloudapp.azure.com/).
+### Studying and looking for new challenges in the [Start By Capgemini Program](http://capgeminischool.brazilsouth.cloudapp.azure.com/) 
+
  </p>
 
   
@@ -32,7 +38,10 @@ Portfolio created in order to show my projects throughout my career
 <!-- Ícones das linguagens -->
 <!-- Java -->
 <a href="[http://capgeminischool.brazilsouth.cloudapp.azure.com/]">
-<img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" tittle="Java" width="200" height="200">
+<img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" tittle="Java" width="150" height="150">
+</a>
+<a href="[http://capgeminischool.brazilsouth.cloudapp.azure.com/]">
+<img src="./img/html5-icon-png-1.jpg" tittle="Java" width="200" height="100">
 </a>
 
 <p align="center">
